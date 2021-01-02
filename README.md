@@ -1,6 +1,6 @@
 ##salvadores tasarlamıştır
 ##nickname: salvador
-Linux İşletim Sistemi İçin Tasarlanmıştır.
+Ubuntu İşletim Sistemleri İçin Tasarlanmıştır.
 
 bilgisayar olanında tamamen sağlıklı çalışabilmesi için Home/kullanıcıadı/ bölmesine indirin 
 ve burada kullanmaya özen gösterin indirdiğiniz araçlar klasör halinde orada bulunacaktır.
