@@ -74,6 +74,9 @@ elif [[ $secim == 2 ]]; then
         cd siberaraclar
         git clone https://github.com/sqlmapproject/sqlmap
         git clone https://github.com/Tuhinshubhra/RED_HAWK
+	git clone https://github.com/cansofficall/salvo
+	git clone https://github.com/cansofficall/SeS
+	git clone https://github.com/cansofficall/CnsAdScn
         git clone https://github.com/shawarkhanethicalhacker/D-TECT-1
         git clone https://github.com/4L13199/LITESPAM
         git clone https://github.com/4shadoww/hakkuframework
